@@ -1,0 +1,15 @@
+.list
+{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    gap: 40px;
+}
+.link
+{
+    position: relative;
+    display: inline-block;
+    text-decoration: none;
+    color: #ad1313;
+    font-weight: 700;
+}
